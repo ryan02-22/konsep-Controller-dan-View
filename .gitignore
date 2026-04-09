@@ -1,0 +1,17 @@
+# CodeIgniter 4 Git Ignore
+.env
+/vendor/
+/system/
+/writable/
+/public/uploads/
+*.log
+.phpunit.result.cache
+*.db
+
+# IDE specific
+.vscode/
+.idea/
+.project
+.buildpath
+.settings/
+.DS_Store
